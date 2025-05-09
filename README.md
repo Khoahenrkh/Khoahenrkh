@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm a Backend Developer
 
-<!--
-**Khoahenrkh/Khoahenrkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer who loves building scalable, reliable, and efficient systems. I enjoy working behind the scenes to create powerful APIs, manage databases, and solve complex problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about clean code and system architecture
+- 🔍 Enjoy solving challenging backend problems
+- 🛠️ Experienced with **Node.js**, **NestJS**, **TypeORM**, **PostgreSQL**
+- 🌱 Always learning new technologies and best practices
+- 
+## 📫 Contact Me
+- [Email](mailto:nguyendangkhoa1896@gmail.com)
+
+---
+
+Thanks for visiting my GitHub profile! 😊
