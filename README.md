@@ -6,7 +6,7 @@ I'm a backend developer who loves building scalable, reliable, and efficient sys
 
 - 💻 Passionate about clean code and system architecture
 - 🔍 Enjoy solving challenging backend problems
-- 🛠️ Experienced with **Node.js**, **NestJS**, **PYTHON**,  **PHP**, **TypeORM**, **PostgreSQL**
+- 🛠️ Experienced with **Node.js**, **NestJS**, **Python**,  **PHP**, **TypeORM**, **PostgreSQL**
 - 🌱 Always learning new technologies and best practices
   
 ## 📫 Contact Me
